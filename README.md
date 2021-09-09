@@ -1,6 +1,7 @@
-# Hello...I'm Vinayak Tule 👋 💻<img src="https://github.com/venkywarriors/venkywarriors/raw/master/Logos/unnamed.gif" width="30px" style="max-width: 100%;">
+# Hello...I'm Vinayak Tule 👋 💻<img src="https://user-images.githubusercontent.com/49808124/132696970-df643f80-87af-45bb-9792-b12f74c246a3.gif"  width="30px" style="max-width: 100%;">
 ``` python
 def Profile(self):
+
   return "EFFORTS is the best indicator of interest"
 ```
 - 🔭 I’m currently working on _Python Selenium Automation_
