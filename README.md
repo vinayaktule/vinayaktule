@@ -13,12 +13,12 @@ def Profile(self):
 ⚡I am a SDET💼 and also a Bachelor of Engineering in information Technology👨‍🎓
 
 * Over 5 Years of experience in software industry as a **QA Automation Test Engineer**
-* Good experience in creating test plan, deriving test scenarios and test cases
+* Good experience in deriving test scripts for end to end automation test scenarios and test cases
 * Understanding of Software life cycle and bug life cycle
 * Performed _UI Testing, Functionality Testing, Integration Testing & System Testing_ of the newly developed functionality
 * Implemented and test modifications to existing application w.r.t. industry standard 
 * Strong **Communication skill, teamwork skills and ability to work independently too**
-* **Tools** : Selenium, Python, py.test, Unittest, SQL
+* **Tools** : Selenium, Java, TestNG, Jenkins, SQL
 * **Project Management Tools** : Jira, Testuff, Redmine
 * **Version Control System** : Git, Svn
 * **Virtualization**: VMWare with different flavors of OS
@@ -29,8 +29,8 @@ def Profile(self):
 ## 🔧 Technologies Used
 * **Java**
 * **Selenium**
-* **Pytest**
-* **Unittest**
+* **TestNG**
+* **Jenkins**
 * **GIT**
 * **SQL**
 
