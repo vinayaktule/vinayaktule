@@ -4,7 +4,7 @@ def Profile(self):
 
   return "EFFORTS is the best indicator of interest"
 ```
-- 🔭 I’m currently working on _Python Selenium Automation_
+- 🔭 I’m currently working on _Java Selenium Automation_
 - 🌱 I’m currently learning CI/CD pipeline working
 - 📫 How to reach me: [VISIT: LinkedIn/vinayaktule](https://www.linkedin.com/in/vinayaktule/)
 
@@ -27,7 +27,7 @@ def Profile(self):
 <img src="https://github-readme-stats.vercel.app/api?username=vinayaktule&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000">
 
 ## 🔧 Technologies Used
-* **Python**
+* **Java**
 * **Selenium**
 * **Pytest**
 * **Unittest**
