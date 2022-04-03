@@ -1,18 +1,18 @@
 # Hola...I'm Vinayak Tule 👋 💻<img src="https://user-images.githubusercontent.com/49808124/132696970-df643f80-87af-45bb-9792-b12f74c246a3.gif"  width="30px" style="max-width: 100%;">
-``` java
+``` python
 def Profile(self):
 
   return "EFFORTS is the best indicator of interest"
 ```
-- 🔭 I’m currently working on _Java Selenium Automation_
-- 🌱 I’m currently learning CI/CD pipeline working
+- 🔭 I’m currently working on _Java Selenium Automation_ & _CI/CD pipeline_
+- OPEN FOR AN INTERVIEW ON AUTOMATION SELENIUM
 - 📫 How to reach me: [VISIT: LinkedIn/vinayaktule](https://www.linkedin.com/in/vinayaktule/)
 
 ![automated](https://user-images.githubusercontent.com/49808124/132689394-dfb22fb8-b8ba-4d87-ae7f-44a8e3623d74.gif)
 
 ⚡I am a SDET💼 and also a Bachelor of Engineering in information Technology👨‍🎓
 
-* Over 5 Years of experience in software industry as a **QA Automation Test Engineer**
+* Over 5.5 Years of experience in software industry as a **QA Automation Test Engineer**
 * Good experience in deriving test scripts for end to end automation test scenarios and test cases
 * Understanding of Software life cycle and bug life cycle
 * Performed _UI Testing, Functionality Testing, Integration Testing & System Testing_ of the newly developed functionality
